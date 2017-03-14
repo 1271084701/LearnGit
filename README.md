@@ -1,2 +1,2 @@
 # LearnGit
-Switched to a new branch "master".
+Switched to a new branch "brance".
